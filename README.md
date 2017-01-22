@@ -8,6 +8,7 @@
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final3-compressor.jpg" width="192">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final4-compressor.jpg" width="192">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/FInal5-compressor.jpg" width="192">
+
 ## Introduction
 
 Synthesizers are hypnotic. The beeps and boops they produce induce an almost involuntary urge to move – they enact on our primal need to respond to the call of rhythm and groove. For years I dreamt of the day that I would be able to twist knobs, push buttons and slam down some analog basslines. 
@@ -70,7 +71,7 @@ The process of how I built this thing is outlined below.
 You can get a sense of these steps below:
 
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/WorkshopMess-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Workshop-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/workshop-compressor.jpg" width="256">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/CircuitOnTable-compressor.jpg" width="256">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/DrillingPanels-compressor.jpg" width="256">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/DeburredPanel-compressor.jpg" width="256">
