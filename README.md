@@ -1,13 +1,13 @@
 # Synth From Scratch
 
-![Final Product](https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final2-compressor.JPG)
+![Final Product](https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final2-compressor.jpg)
 
 
 
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final1-compressor.jpg" width="256">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final3-compressor.jpg" width="256">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final4-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final5-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/FInal5-compressor.jpg" width="256">
 
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/WorkshopMess-compressor.jpg" width="256">
 
