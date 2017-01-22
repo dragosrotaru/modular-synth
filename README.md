@@ -4,10 +4,10 @@
 
 
 
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final1-compressor.JPG" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final3-compressor.JPG" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final4-compressor.JPG" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final5-compressor.JPG" width="256">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final1-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final3-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final4-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final5-compressor.jpg" width="256">
 
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/WorkshopMess-compressor.jpg" width="256">
 
@@ -20,9 +20,9 @@
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/PaintedPanels-compressor.jpg" width="256">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/WritingOnPanels-compressor.jpg" width="256">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/MountingJacks-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/AssembledADEnv-compressor.JPG" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/AssembledADEnvFront-compressor.JPG" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/MountingModules-compressor.JPG" width="256">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/AssembledADEnv-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/AssembledADEnvFront-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/MountingModules-compressor.jpg" width="256">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Tuning-compressor.jpg" width="256">
 
 
