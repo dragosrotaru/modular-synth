@@ -4,10 +4,10 @@
 
 ![Final Product](https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final2-compressor.jpg)
 
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final1-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final3-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final4-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/FInal5-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final1-compressor.jpg" width="128">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final3-compressor.jpg" width="128">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final4-compressor.jpg" width="128">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/FInal5-compressor.jpg" width="128">
 ## Introduction
 
 Synthesizers are hypnotic. The beeps and boops they produce induce an almost involuntary urge to move – they enact on our primal need to respond to the call of rhythm and groove. For years I dreamt of the day that I would be able to twist knobs, push buttons and slam down some analog basslines. 
@@ -58,11 +58,11 @@ The process of how I built this thing is outlined below.
 
 1. First I did my research. I looked over all of the project documentation very carefully and figured out what tools were needed, what materials were needed and what expertise was needed. I started to think through how I would overcome some of the issues. Finally when all that was done, I purchased the necessary materials.
 2. I started with the schematics and finished the circuits one by one. This part took very little time compared to the other steps. The process is as follows:
-  1. Lay out the circuit on the perfboard in your head. think about how things will come together. Try to keep symmetry and order.
-  2. Start soldering sockets, then parts with short routes and finally more complex routes.
-  3. Check your soldering job, trace correctness, correct components. Double check and check again.
-  4. Test run. does it work? sanity checks are correct? No? Then troubleshoot and return to step 3.
-  5. Once everything is correct, Clean the flux off the circuit and put it away for later use.
+  * Lay out the circuit on the perfboard in your head. think about how things will come together. Try to keep symmetry and order.
+  * Start soldering sockets, then parts with short routes and finally more complex routes.
+  * Check your soldering job, trace correctness, correct components. Double check and check again.
+  * Test run. does it work? sanity checks are correct? No? Then troubleshoot and return to step 3.
+  * Once everything is correct, Clean the flux off the circuit and put it away for later use.
 3. I built the case. First I drew a diagram and decided on dimensions, then I cut the pieces of wood, nailed and glued them together. Stained and Laquered. Next I rivoted the aluminum pieces which were cut to line up perfectly, mounted the legs and ironed on the black poly strip on the horizontal supports. Lastly I mounted the rails and power distribution boards. 
 4. The most painstaking process was to build the panels for each module. This started with a large piece of 1/8" aluminum sheet which I cut to size with a large metal shear. Afterwards I layed out the hardware and marked the panels. Next I punched and drilled holes, deburred, sanded, and painted. Afterwards I used a paint pen to write on the panels because the lazer engraver I tried to use was not powerful enough to burn through the spray paint. This ended up being a horrible experience because the pen would occasionally spill all of its contents. Lastly I spray painted a clear coat.
 5. Next I mounted the modules, wired them up and tuned the oscillators and filter. Thats it!
