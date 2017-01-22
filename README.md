@@ -13,7 +13,6 @@
 
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/CircuitsOnTable-compressor.jpg" width="256">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/CircuitOnTable-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/UnpaintedMock-compressor.jpg" width="256">
 
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/DrillingPanels-compressor.jpg" width="256">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/DeburredPanel-compressor.jpg" width="256">
