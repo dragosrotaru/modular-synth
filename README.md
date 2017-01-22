@@ -4,7 +4,10 @@
 
 ![Final Product](https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final2-compressor.jpg)
 
-
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final1-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final3-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final4-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/FInal5-compressor.jpg" width="256">
 ## Introduction
 
 Synthesizers are hypnotic. The beeps and boops they produce induce an almost involuntary urge to move – they enact on our primal need to respond to the call of rhythm and groove. For years I dreamt of the day that I would be able to twist knobs, push buttons and slam down some analog basslines. 
@@ -30,7 +33,7 @@ The case is fully compliant with the EuroRack standard – You can read about t
 
 ## The Build
 
-As mentioned before, this project was a pain in the ass. I started with almost zero knowledge pertaining to analog electronics design and analysis. I didn't even own a power supply, oscilloscope or decent soldering iron. All I had was around $1000, experience with digital electronics and some tools laying around the basement. Unfortunately, that isn't even the bad part. The bad part is the fact that for months on end I either had no access to necessary (ie no drill press), or access to poor tools that weren't ideal (i.e. wood drillbits when I needed aluminum bits). Here are some of the lessons I have learned:
+As mentioned before this project was a pain in the ass. I started with almost zero knowledge about analog electronics design and analysis. I didn't even own a power supply, oscilloscope or soldering station. All I had was around $1000, experience with digital electronics and some tools laying around the basement. Unfortunately, that isn't even the worst part. The worst part is that for months on end I either had no access to necessary tools (ie no drill press), or access to poor tools that weren't ideal (i.e. a shitty drill press ). I was on the verge of throwing a fit of rage many, many times during this project. Here are some of the lessons I have learned:
 
 * Do NOT use perfboard for complex projects.
 * Do NOT use photolithographic etching for complex projects.
@@ -39,20 +42,33 @@ As mentioned before, this project was a pain in the ass. I started with almost z
 * Do waste money at DigiKey, Mouser or any other respectable distributor.
 * Do NOT use inappropriate gauge/type of wire.
 * Do NOT start a complex project if you dont have or know where to get all the tools to finish.
-* Do NOT use a paint pen ever, for any reason whatsoever. They suck.
+* Do NOT use a paint pen ever, for any reason whatsoever.
 * Do always double check and triple check your soldering job.
+* Do have an organized collection of components.
+* Do have printouts of schematics on paper for when your computer dies and your hands are busy.
+* Do always wear goggles when soldering. solder in the eye sucks... a lot.
+* Do always have spare parts on hand.
 * Do NOT use shitty drill presses or drill bits.
 * Do NOT try to do DIY transistor matching. You can buy Vbe matched transistor pairs in SMT packages.
 * Do spend money on decent tools
 * Do NOT attend a garbage university with no access to workshops for computer science students.
-* Do own a car so that you dont have to bus for 10 minutes to your local hackerspace hauling boxes of stuff.
+* Do befriend someone with a car so that you dont have to bus for 30 minutes hauling boxes of stuff to your local hackerspace.
 
+The process of how I built this thing is outlined below.
 
+1. First I did my research. I looked over all of the project documentation very carefully and figured out what tools were needed, what materials were needed and what expertise was needed. I started to think through how I would overcome some of the issues. Finally when all that was done, I purchased the necessary materials.
+2. I started with the schematics and finished the circuits one by one. This part took very little time compared to the other steps. The process is as follows:
+  1. Lay out the circuit on the perfboard in your head. think about how things will come together. Try to keep symmetry and order.
+  2. Start soldering sockets, then parts with short routes and finally more complex routes.
+  3. Check your soldering job, trace correctness, correct components. Double check and check again.
+  4. Test run. does it work? sanity checks are correct? No? Then troubleshoot and return to step 3.
+  5. Once everything is correct, Clean the flux off the circuit and put it away for later use.
+3. I built the case. First I drew a diagram and decided on dimensions, then I cut the pieces of wood, nailed and glued them together. Stained and Laquered. Next I rivoted the aluminum pieces which were cut to line up perfectly, mounted the legs and ironed on the black poly strip on the horizontal supports. Lastly I mounted the rails and power distribution boards. 
+4. The most painstaking process was to build the panels for each module. This started with a large piece of 1/8" aluminum sheet which I cut to size with a large metal shear. Afterwards I layed out the hardware and marked the panels. Next I punched and drilled holes, deburred, sanded, and painted. Afterwards I used a paint pen to write on the panels because the lazer engraver I tried to use was not powerful enough to burn through the spray paint. This ended up being a horrible experience because the pen would occasionally spill all of its contents. Lastly I spray painted a clear coat.
+5. Next I mounted the modules, wired them up and tuned the oscillators and filter. Thats it!
 
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final1-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final3-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final4-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/FInal5-compressor.jpg" width="256">
+You can get a sense of these steps below:
+
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/WorkshopMess-compressor.jpg" width="256">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/CircuitsOnTable-compressor.jpg" width="256">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/CircuitOnTable-compressor.jpg" width="256">
