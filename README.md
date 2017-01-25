@@ -9,6 +9,18 @@
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final4-compressor.jpg" width="192">
 <img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/FInal5-compressor.jpg" width="192">
 
+## Audio Samples
+
+
+<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/beach.mp3" controls>	
+<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/drippydrops.mp3" controls>	
+<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/funky.mp3" controls>	
+<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/siren1.mp3" controls>	
+<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/siren2.mp3" controls>	
+<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/rawbass.mp3" controls>	
+<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/trance.mp3" controls>	
+<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/rawraw.mp3" controls>	
+
 ## Introduction
 
 Synthesizers are hypnotic. The beeps and boops they produce induce an almost involuntary urge to move – they enact on our primal need to respond to the call of rhythm and groove. For years I dreamt of the day that I would be able to twist knobs, push buttons and slam down some analog basslines. 
