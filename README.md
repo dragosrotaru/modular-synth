@@ -12,13 +12,20 @@
 ## Audio Samples
 
 
-<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/beach.mp3" controls>	
+<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/beach.mp3" controls>
+
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/drippydrops.mp3" controls>	
+
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/funky.mp3" controls>	
+
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/siren1.mp3" controls>	
+
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/siren2.mp3" controls>	
+
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/rawbass.mp3" controls>	
+
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/trance.mp3" controls>	
+
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/rawraw.mp3" controls>	
 
 ## Introduction
