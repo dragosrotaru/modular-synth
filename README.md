@@ -13,28 +13,28 @@
 
 
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/beach.mp3" controls>
- <p>Beach.mp3</p>
+<p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/beach.mp3">beach.mp3</a></p>
 </audio>
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/drippydrops.mp3" controls>
- <p>drippydrops.mp3</p>
+ <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/drippydrops.mp3">drippydrops.mp3</a></p>
 </audio>
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/funky.mp3" controls>
- <p>funky.mp3</p>
+ <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/funky.mp3">funky.mp3</a></p>
 </audio>
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/siren1.mp3" controls>
- <p>siren1.mp3</p>
+ <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/siren1.mp3">siren1.mp3</a></p>
 </audio>
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/siren2.mp3" controls>
- <p>siren2.mp3</p>
+ <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/siren2.mp3">siren2.mp3</a></p>
 </audio>
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/rawbass.mp3" controls>
- <p>rawbass.mp3</p>
+ <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/rawbass.mp3">rawbass.mp3</a></p>
 </audio>
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/trance.mp3" controls>
- <p>trance.mp3</p>
+ <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/trance.mp3">trance.mp3</a></p>
 </audio>
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/rawraw.mp3" controls>
- <p>rawraw.mp3</p>
+ <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/rawraw.mp3">rawraw.mp3</a></p>
 </audio>
 
 ## Introduction
