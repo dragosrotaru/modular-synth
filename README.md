@@ -12,6 +12,8 @@
 ## Audio Samples
 
 
+Here are some samples of the sounds produced by this thing. some of these I incorporated in low-effort compositions for the less imaginative. 
+
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/beach.mp3" controls>
 <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/beach.mp3">beach.mp3</a></p>
 </audio>
