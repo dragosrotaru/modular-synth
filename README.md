@@ -12,7 +12,7 @@
 ## Audio Samples
 
 
-Here are some of the sounds produced by this thing. In a few of these samples I incorporated minimal composition so the less musically imaginative can get a sense of how this might be used. P.S. if you are viewing the readme file on and not the site, these might not work. <a href="https://dragosrotaru.github.io/Synth-From-Scratch/">site link</a> 
+Here are some of the sounds produced by this thing. In a few of these samples I incorporated minimal composition so the less musically imaginative can get a sense of how this might be used. If you are viewing the readme file and not the project site these mp3s might not work. <a href="https://dragosrotaru.github.io/Synth-From-Scratch/">site link</a> 
 
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/beach.mp3" controls>
 <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/beach.mp3">beach.mp3</a></p>
