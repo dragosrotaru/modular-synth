@@ -12,7 +12,7 @@
 ## Audio Samples
 
 
-Here are some samples of the sounds produced by this thing. some of these I incorporated in low-effort compositions for the less imaginative. 
+Here are some of the sounds produced by this thing. In a few of these samples I incorporated minimal composition so the less musically imaginative can get a sense of how this might be used. 
 
 <audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/beach.mp3" controls>
 <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/beach.mp3">beach.mp3</a></p>
