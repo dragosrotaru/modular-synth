@@ -2,41 +2,41 @@
 
 ## Money Shot
 
-![Final Product](https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final2-compressor.jpg)
+![Final Product](https://raw.githubusercontent.com/haramcore/modular-synth/master/Final2-compressor.jpg)
 
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final1-compressor.jpg" width="192">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final3-compressor.jpg" width="192">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Final4-compressor.jpg" width="192">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/FInal5-compressor.jpg" width="192">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/Final1-compressor.jpg" width="192">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/Final3-compressor.jpg" width="192">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/Final4-compressor.jpg" width="192">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/FInal5-compressor.jpg" width="192">
 
 ## Audio Samples
 
 
-Here are some of the sounds produced by this thing. In a few of these samples I incorporated minimal composition so the less musically imaginative can get a sense of how this might be used. If you are viewing the readme file and not the project site these mp3s might not work. <a href="https://dragosrotaru.github.io/Synth-From-Scratch/">site link</a> 
+Here are some of the sounds produced by this thing. In a few of these samples I incorporated minimal composition so the less musically imaginative can get a sense of how this might be used. If you are viewing the readme file and not the project site these mp3s might not work. <a href="https://haramcore.github.io/modular-synth/">site link</a> 
 
-<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/beach.mp3" controls>
-<p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/beach.mp3">beach.mp3</a></p>
+<audio src="https://raw.githubusercontent.com/haramcore/modular-synth/master/beach.mp3" controls>
+<p><a href="https://raw.githubusercontent.com/haramcore/modular-synth/master/beach.mp3">beach.mp3</a></p>
 </audio>
-<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/drippydrops.mp3" controls>
- <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/drippydrops.mp3">drippydrops.mp3</a></p>
+<audio src="https://raw.githubusercontent.com/haramcore/modular-synth/master/drippydrops.mp3" controls>
+ <p><a href="https://raw.githubusercontent.com/haramcore/modular-synth/master/drippydrops.mp3">drippydrops.mp3</a></p>
 </audio>
-<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/funky.mp3" controls>
- <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/funky.mp3">funky.mp3</a></p>
+<audio src="https://raw.githubusercontent.com/haramcore/modular-synth/master/funky.mp3" controls>
+ <p><a href="https://raw.githubusercontent.com/haramcore/modular-synth/master/funky.mp3">funky.mp3</a></p>
 </audio>
-<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/siren1.mp3" controls>
- <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/siren1.mp3">siren1.mp3</a></p>
+<audio src="https://raw.githubusercontent.com/haramcore/modular-synth/master/siren1.mp3" controls>
+ <p><a href="https://raw.githubusercontent.com/haramcore/modular-synth/master/siren1.mp3">siren1.mp3</a></p>
 </audio>
-<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/siren2.mp3" controls>
- <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/siren2.mp3">siren2.mp3</a></p>
+<audio src="https://raw.githubusercontent.com/haramcore/modular-synth/master/siren2.mp3" controls>
+ <p><a href="https://raw.githubusercontent.com/haramcore/modular-synth/master/siren2.mp3">siren2.mp3</a></p>
 </audio>
-<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/rawbass.mp3" controls>
- <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/rawbass.mp3">rawbass.mp3</a></p>
+<audio src="https://raw.githubusercontent.com/haramcore/modular-synth/master/rawbass.mp3" controls>
+ <p><a href="https://raw.githubusercontent.com/haramcore/modular-synth/master/rawbass.mp3">rawbass.mp3</a></p>
 </audio>
-<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/trance.mp3" controls>
- <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/trance.mp3">trance.mp3</a></p>
+<audio src="https://raw.githubusercontent.com/haramcore/modular-synth/master/trance.mp3" controls>
+ <p><a href="https://raw.githubusercontent.com/haramcore/modular-synth/master/trance.mp3">trance.mp3</a></p>
 </audio>
-<audio src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/rawraw.mp3" controls>
- <p><a href="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/rawraw.mp3">rawraw.mp3</a></p>
+<audio src="https://raw.githubusercontent.com/haramcore/modular-synth/master/rawraw.mp3" controls>
+ <p><a href="https://raw.githubusercontent.com/haramcore/modular-synth/master/rawraw.mp3">rawraw.mp3</a></p>
 </audio>
 
 ## Introduction
@@ -55,7 +55,7 @@ The design of this project is largely consistent with the SoundLab Mk. II origin
 
 Many alterations to the original design were made to convert the synth to a modular system. This includes replacing switch based connections with jacks and creating completely new panel designs. You can see that below:
 
-![Block Assembly Diagram](https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/BlockAssembly.jpg)
+![Block Assembly Diagram](https://raw.githubusercontent.com/haramcore/modular-synth/master/BlockAssembly.jpg)
 
 I also designed the analog power-supply and power distribution system for the project. I dont have pictures or schematics of that but it is very straight forward – a fully rectified and heavily filtered AC to DC linear supply that provides +/-12V. This feeds to a 12v to 5v  SMPS module and to the power bus.
 
@@ -100,17 +100,17 @@ The process of how I built this thing is outlined below.
 
 You can get a sense of these steps below:
 
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/WorkshopMess-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/workshop-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/CircuitOnTable-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/DrillingPanels-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/DeburredPanel-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/PaintedPanels-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/WritingOnPanels-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/MountingJacks-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/AssembledADEnv-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/AssembledADEnvFront-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/MountingModules-compressor.jpg" width="256">
-<img src="https://raw.githubusercontent.com/DragosRotaru/Synth-From-Scratch/master/Tuning-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/WorkshopMess-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/workshop-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/CircuitOnTable-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/DrillingPanels-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/DeburredPanel-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/PaintedPanels-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/WritingOnPanels-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/MountingJacks-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/AssembledADEnv-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/AssembledADEnvFront-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/MountingModules-compressor.jpg" width="256">
+<img src="https://raw.githubusercontent.com/haramcore/modular-synth/master/Tuning-compressor.jpg" width="256">
 
 
