@@ -1,4 +1,6 @@
-# Synth From Scratch
+# Modular Synthesizer
+
+My DIY, home made analog modular synthesizer
 
 ## Money Shot
 
